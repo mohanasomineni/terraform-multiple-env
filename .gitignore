@@ -4,8 +4,6 @@
 echo ".terraform/" >> .gitignore
 echo "*.exe" >> .gitignore
 
-
-
 # .tfstate files
 *.tfstate
 *.tfstate.*
